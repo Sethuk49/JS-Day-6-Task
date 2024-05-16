@@ -51664,5 +51664,7 @@
 // let countriesUsingUSD = countries.filter(country => {
 // return country.currencies && Object.keys(country.currencies).includes('USD');
 // });
+
+
 // console.log('Countries using USD:', countriesUsingUSD);
 
